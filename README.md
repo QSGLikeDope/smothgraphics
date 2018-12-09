@@ -1,0 +1,2 @@
+# smothgraphics
+GitHub Pages
